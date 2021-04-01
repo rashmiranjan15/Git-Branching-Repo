@@ -1,0 +1,23 @@
+[33mcommit ab7b9d4634a6f1b5524bec4844deaa084f57ef97[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mblue[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-95-190.ec2.internal>
+Date:   Thu Apr 1 11:22:52 2021 +0000
+
+    Created code3.py
+
+[33mcommit 419c142997a97f40653a33e0f4ea5244ca376461[m
+Author: EC2 Default User <ec2-user@ip-172-31-95-190.ec2.internal>
+Date:   Thu Apr 1 11:12:27 2021 +0000
+
+    This is main.py in blue
+
+[33mcommit 840b4f83bfd93ab3c12a719732d6bd5e784e460c[m
+Author: EC2 Default User <ec2-user@ip-172-31-95-190.ec2.internal>
+Date:   Thu Apr 1 11:03:26 2021 +0000
+
+    This is Code2
+
+[33mcommit 2f351d99d93390ad1217c9641c969b304068d143[m
+Author: EC2 Default User <ec2-user@ip-172-31-95-190.ec2.internal>
+Date:   Thu Apr 1 11:02:22 2021 +0000
+
+    This is Code1
